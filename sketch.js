@@ -1,5 +1,4 @@
-const { ImageBackground } = require("react-native");
-const { back } = require("react-native/Libraries/Animated/Easing");
+
 
 
 function preload(){
